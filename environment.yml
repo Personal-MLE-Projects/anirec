@@ -1,0 +1,11 @@
+name: anirec
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
+  - seaborn
+  - bs4
+
