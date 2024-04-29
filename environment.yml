@@ -8,4 +8,5 @@ dependencies:
   - pandas
   - seaborn
   - bs4
+  - requests
 
